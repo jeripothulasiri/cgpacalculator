@@ -12,27 +12,27 @@
 
 1. Clone or download this repository to your local machine.
    bash
-   https://github.com/swetamishra123/Cgpa-Calculator.git
+   https://github.com/jeripothulasiri/cgpacalculator
 
 
-2. Navigate to the project directory.
+3. Navigate to the project directory.
    bash
    cd Cgpa-Calculator
 
-3. Compile the C++ program.
+4. Compile the C++ program.
 
    bash
    g++ cgpa_calculator.cpp -o cgpa_calculator
 
-4. Run the program.
+5. Run the program.
 
    bash
    ./cgpa_calculator
    
 
-5. Follow the on-screen prompts to enter course details (credits and grades) as required.
+6. Follow the on-screen prompts to enter course details (credits and grades) as required.
 
-6. The program will calculate your CGPA and display it on the console. Additionally, the course details and CGPA will be saved to a file named `cgpa_data.txt`.
+7. The program will calculate your CGPA and display it on the console. Additionally, the course details and CGPA will be saved to a file named `cgpa_data.txt`.
 
 # Output
 Certainly! Let's walk through the detailed output explanation for the CGPA Calculator program. I'll explain each part of the output and what it means.
